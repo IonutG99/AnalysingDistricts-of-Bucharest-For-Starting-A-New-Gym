@@ -19,3 +19,10 @@
 •Unsupervised Learning –K-means clustering
 
 •Plotting-Folium
+
+## Results
+Visualization of clusters:
+
+![alt text](https://github.com/IonutG99/AnalysingDistricts-of-Bucharest-For-Starting-A-New-Gym/blob/main/bucharest_clusters_map.jpg)
+
+After visualizing the clusters, the individual clusters were studied and some important conclusions were derived. The district that had the most number of gyms was cluster number 5.
